@@ -177,4 +177,3 @@ for subdirectory in subdirectories:
 print("All subdirectories have been processed.")
 
 
-DOI: 10.5281/zenodo.14026617
