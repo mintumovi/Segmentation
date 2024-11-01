@@ -175,3 +175,6 @@ for subdirectory in subdirectories:
     print(f"Completed processing subdirectory: {subdirectory_name}\n")
 
 print("All subdirectories have been processed.")
+
+
+DOI: 10.5281/zenodo.14026617
